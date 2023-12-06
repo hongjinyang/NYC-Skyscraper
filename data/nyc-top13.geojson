@@ -1,0 +1,252 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 1,
+          "name": "One World Trade Center",
+          "height": 541,
+          "floors": 94,
+          "year": 2014,
+          "address": "285 Fulton Street",
+          "notes": "Also known as the Freedom Tower. Tallest building in the Western Hemisphere by architectural height. Tallest building in New York City and the United States. 7th-tallest building in the world. Roof height is 1,368 feet (417??m), the same as the original World Trade Center. Footprint of the building is 200 by 200 feet (61 by 61??m), the same as each of the Twin Towers."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.0135,
+            40.713
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 2,
+          "name": "Central Park Tower",
+          "height": 472,
+          "floors": 99,
+          "year": 2021,
+          "address": "225 West 57th Street",
+          "notes": "Also known as Nordstrom Tower. At 1,550 feet, it has the highest roof height of any building outside Asia, surpassing the Willis Tower by 100 feet (30??m). The building is also the tallest residential building in the world both by roof height and architectural height. Top floor marketed as 130 but has 99 actual floors. Construction was delayed in 2015 and resumed in 2017. Topped out in September 2019."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.98089,
+            40.7659
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 3,
+          "name": "111 West 57th Street",
+          "height": 435,
+          "floors": 85,
+          "year": 2022,
+          "address": "111 West 57th Street",
+          "notes": "Also known as Steinway Tower. It is the world's most slender skyscraper."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.97765,
+            40.76455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 4,
+          "name": "One Vanderbilt",
+          "height": 427,
+          "floors": 73,
+          "year": 2020,
+          "address": "1 Vanderbilt Avenue",
+          "notes": "Second tallest office building in NYC. Tallest all-office building in Midtown Manhattan. Due to floor ceilings between 14 and 20 feet in height, it has fewer stories than most buildings of similar height; its top floor is numbered 93. Has the highest panoramic elevator in the world. The building topped out in September 2019 and formally opened on September 14, 2020."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9785,
+            40.753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 5,
+          "name": "432 Park Avenue",
+          "height": 426,
+          "floors": 85,
+          "year": 2015,
+          "address": "432 Park Avenue",
+          "notes": "Fifth tallest building overall in NYC, third tallest by roof height, third tallest residential building in the world; 26th-tallest building in the world; 6th-tallest building in the United States."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.971806,
+            40.761389
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 6,
+          "name": "30 Hudson Yards",
+          "height": 387,
+          "floors": 103,
+          "year": 2019,
+          "address": "500 West 33rd Street",
+          "notes": "Opened March 15, 2019, tallest building in Hudson Yards. It has the highest outdoor observation deck in the Western Hemisphere and highest open-air building ascent in the world. Top floor marketed as 101."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.00315,
+            40.75355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 7,
+          "name": "Empire State Building",
+          "height": 381,
+          "floors": 102,
+          "year": 1931,
+          "address": "350 Fifth Avenue",
+          "notes": "First building in the world to contain over 100 floors. Built in just 13 months during the Great Depression, it was the world's tallest building from its completion in 1931 until the World Trade Center was completed in 1972, and was New York City's tallest building after the World Trade Center was destroyed in the attacks of September 11, 2001, until 2012, when it was surpassed by One World Trade Center. With its antenna, it is 1,454 feet (443??m) tall."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.985656,
+            40.748433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 8,
+          "name": "Bank of America Tower",
+          "height": 366,
+          "floors": 55,
+          "year": 2009,
+          "address": "1101 Sixth Avenue",
+          "notes": "First skyscraper to receive a Platinum LEED certification. Roof height is 953.5 feet (291??m)."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.984167,
+            40.755278
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 9,
+          "name": "3 World Trade Center",
+          "height": 329,
+          "floors": 80,
+          "year": 2018,
+          "address": "175 Greenwich Street",
+          "notes": "Topped out in June 2016. Officially opened June 11, 2018."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.0116,
+            40.7109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 10,
+          "name": "The Brooklyn Tower*",
+          "height": 327,
+          "floors": 93,
+          "year": 2022,
+          "address": "9 DeKalb Avenue",
+          "notes": "Topped out in October 2021 to become the tallest building in Brooklyn, the tallest building in the outer boroughs, and the tallest building in New York State outside Manhattan Island."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.982222,
+            40.690278
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 11,
+          "name": "53W53",
+          "height": 320,
+          "floors": 77,
+          "year": 2019,
+          "address": "53 West 53rd Street",
+          "notes": "Formerly known as Tower Verre, topped out in August 2018."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9784,
+            40.7616
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 12,
+          "name": "Chrysler Building",
+          "height": 319,
+          "floors": 77,
+          "year": 1930,
+          "address": "405 Lexington Avenue",
+          "notes": "Tied for 19th-tallest in the United States; first building in the world to rise higher than 1,000 feet (305??m); stood as the tallest building in the world from 1930 until 1931 when it was surpassed by the Empire State Building; tallest steel-framed brick building in the world. At its completion overtook the Eiffel Tower as the world's tallest man-made structure."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9753,
+            40.7517
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 13,
+          "name": "The New York Times Building",
+          "height": 319,
+          "floors": 52,
+          "year": 2007,
+          "address": "620 Eighth Avenue",
+          "notes": "Tied for 19th-tallest in the United States. Also known as the Times Tower. The first high-rise building in the United States to have a ceramic sunscreen curtain wall."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.99,
+            40.756389
+          ]
+        }
+      }
+    ]
+  }

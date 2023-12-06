@@ -1,0 +1,6008 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "One World Trade Center",
+        "heights": 541.3,
+        "floors": 94,
+        "status": "completed",
+        "end_year": 2014,
+        "start_year": 2006,
+        "notes": "Also known as the Freedom Tower. Tallest building in the Western Hemisphere by architectural height. Tallest building in New York City and the United States. 7th-tallest building in the world. Roof height is 1,368 feet (417?m), the same as the original World Trade Center. Footprint of the building is 200 by 200 feet (61 by 61?m), the same as each of the Twin Towers.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01335144,
+          40.71311188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Central Park Tower",
+        "heights": 472,
+        "floors": 95,
+        "status": "completed",
+        "end_year": 2021,
+        "start_year": 2014,
+        "notes": "Also known as Nordstrom Tower. At 1,550 feet, it has the highest roof height of any building outside Asia, surpassing the Willis Tower by 100 feet (30?m). The building is also the tallest residential building in the world both by roof height and architectural height. Top floor marketed as 130 but has 99 actual floors. Construction was delayed in 2015 and resumed in 2017. Topped out in September 2019.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9809494,
+          40.76636124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "111 West 57th Street",
+        "heights": 438.3,
+        "floors": 80,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2015,
+        "notes": "Also known as Steinway Tower. It is the world's most slender skyscraper.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97754669,
+          40.76480103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "One Vanderbilt",
+        "heights": 427,
+        "floors": 73,
+        "status": "completed",
+        "end_year": 2020,
+        "start_year": 2015,
+        "notes": "Second tallest office building in NYC. Tallest all-office building in Midtown Manhattan. Due to floor ceilings between 14 and 20 feet in height, it has fewer stories than most buildings of similar height; its top floor is numbered 93. Has the highest panoramic elevator in the world. The building topped out in September 2019 and formally opened on September 14, 2020.",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9785,
+          40.753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "432 Park Avenue",
+        "heights": 425.5,
+        "floors": 85,
+        "status": "completed",
+        "end_year": 2015,
+        "start_year": 2011,
+        "notes": "Fifth tallest building overall in NYC, third tallest by roof height, third tallest residential building in the world; 26th-tallest building in the world; 6th-tallest building in the United States.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97186279,
+          40.76155853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "One World Trade Center",
+        "heights": 417,
+        "floors": 110,
+        "status": "demolished",
+        "end_year": 1972,
+        "start_year": 1966,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01322174,
+          40.71208954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Two World Trade Center",
+        "heights": 415.1,
+        "floors": 110,
+        "status": "demolished",
+        "end_year": 1973,
+        "start_year": 1966,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01313019,
+          40.71099091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "30 Hudson Yards",
+        "heights": 386.6,
+        "floors": 73,
+        "status": "completed",
+        "end_year": 2019,
+        "start_year": 2014,
+        "notes": "Opened March 15, 2019, tallest building in Hudson Yards. It has the highest outdoor observation deck in the Western Hemisphere and highest open-air building ascent in the world. Top floor marketed as 101.",
+        "material": "steel/concrete",
+        "uses": "office",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0008316,
+          40.75402069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Empire State Building",
+        "heights": 381,
+        "floors": 102,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1930,
+        "notes": "First building in the world to contain over 100 floors. Built in just 13 months during the Great Depression, it was the world's tallest building from its completion in 1931 until the World Trade Center was completed in 1972, and was New York City's tallest building after the World Trade Center was destroyed in the attacks of September 11, 2001, until 2012, when it was surpassed by One World Trade Center. With its antenna, it is 1,454 feet (443?m) tall.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98560333,
+          40.74842072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Bank of America Tower",
+        "heights": 365.8,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 2009,
+        "start_year": 2004,
+        "notes": "First skyscraper to receive a Platinum LEED certification. Roof height is 953.5 feet (291?m).",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98435211,
+          40.75537872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "3 World Trade Center",
+        "heights": 328.9,
+        "floors": 80,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2010,
+        "notes": "Topped out in June 2016. Officially opened June 11, 2018.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01157379,
+          40.71086884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "The Brooklyn Tower",
+        "heights": 327,
+        "floors": 93,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2016,
+        "notes": "Topped out in October 2021 to become the tallest building in Brooklyn, the tallest building in the outer boroughs, and the tallest building in New York State outside Manhattan Island.",
+        "material": "composite",
+        "uses": "residential",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982222,
+          40.690278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "53 West 53rd",
+        "heights": 320,
+        "floors": 77,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2015,
+        "notes": "Formerly known as Tower Verre, topped out in August 2018.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97817993,
+          40.7618103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Chrysler Building",
+        "heights": 318.9,
+        "floors": 77,
+        "status": "completed",
+        "end_year": 1930,
+        "start_year": 1928,
+        "notes": "Tied for 19th-tallest in the United States; first building in the world to rise higher than 1,000 feet (305?m); stood as the tallest building in the world from 1930 until 1931 when it was surpassed by the Empire State Building; tallest steel-framed brick building in the world. At its completion overtook the Eiffel Tower as the world's tallest man-made structure.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97534943,
+          40.7516098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "New York Times Tower",
+        "heights": 318.8,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 2007,
+        "start_year": 2004,
+        "notes": "Tied for 19th-tallest in the United States. Also known as the Times Tower. The first high-rise building in the United States to have a ceramic sunscreen curtain wall.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99004364,
+          40.75608826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "The Spiral",
+        "heights": 315.2,
+        "floors": 66,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2016,
+        "notes": "34th Street and 10th Avenue, at the north end of the High Line. Almost every floor will have its own outdoor terrace.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00128174,
+          40.75595093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "50 Hudson Yards",
+        "heights": 308,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2015,
+        "notes": "Last tower under construction as part of Hudson Yards' Phase 1, anchored by BlackRock.",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.000119,
+          40.754578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "35 Hudson Yards",
+        "heights": 308,
+        "floors": 72,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2015,
+        "notes": "Tallest mixed-use (residential and hotel) skyscraper in the city, topped out in June 2018.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0024,
+          40.75455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "One57",
+        "heights": 306.1,
+        "floors": 75,
+        "status": "completed",
+        "end_year": 2014,
+        "start_year": 2009,
+        "notes": "First of the Billionaires' Row supertalls to be completed.",
+        "material": "steel/concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97907257,
+          40.76544189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "One Manhattan West",
+        "heights": 304,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 2019,
+        "start_year": 2012,
+        "notes": "Tallest building in the Manhattan West development. Topped out in August 2018 and opened on October 30, 2019.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9979,
+          40.7519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "4 World Trade Center",
+        "heights": 297.7,
+        "floors": 65,
+        "status": "completed",
+        "end_year": 2014,
+        "start_year": 2008,
+        "notes": "Also known as 150 Greenwich Street, part of the rebuilding of the World Trade Center.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01217651,
+          40.71031952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "70 Pine Street",
+        "heights": 290.2,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 1932,
+        "start_year": 1930,
+        "notes": "34th-tallest building in the United States; formerly known as the American International Building and the Cities Service Building. 70 Pine was transformed into a residential skyscraper with 644 rental residences, 132 hotel rooms and 35,000 square feet of retail space, opening in 2015. It was the 3rd tallest building in the world at completion. It stood as the tallest building in Lower Manhattan from the time of its completion until the construction of the original World Trade Center towers in the 1970s, then regained that status after 9/11, holding it until the construction of the new One World Trade Center building.",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00766754,
+          40.70634079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "220 Central Park South",
+        "heights": 290,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 2019,
+        "start_year": 2015,
+        "notes": "Topped out in 2017.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9802,
+          40.7671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Two Manhattan West",
+        "heights": 285,
+        "floors": 58,
+        "status": "under construction",
+        "end_year": 2023,
+        "start_year": 2019,
+        "notes": "Construction began after law firm Cravath, Swaine & Moore signed a lease for 13 floors in October 2019. Topped out in November 2021.",
+        "material": "",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997949,
+          40.75209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "40 Wall Street",
+        "heights": 282.5,
+        "floors": 71,
+        "status": "completed",
+        "end_year": 1930,
+        "start_year": 1929,
+        "notes": "39th-tallest in the United States; was world's tallest building for less than two months in 1930. Formerly known as the Bank of Manhattan Trust Building and currently known as the Trump Building, a more permanent name is 40 Wall Street. Was the tallest building in New York City before being surpassed by the Chrysler Building.[77][78] Was the tallest mid-block building in the city from 1930 until the completion of One57 in 2014.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00980377,
+          40.70692062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "Four Seasons Hotel New York Downtown",
+        "heights": 282,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2008,
+        "notes": "Also known as 30 Park Place. Topped out in March 2015.",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00907898,
+          40.71274948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "Citigroup Center",
+        "heights": 278.9,
+        "floors": 63,
+        "status": "completed",
+        "end_year": 1977,
+        "start_year": 1974,
+        "notes": "Formerly Citicorp Center and now known as 601 Lexington Avenue.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97038269,
+          40.75857162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "15 Hudson Yards",
+        "heights": 278.6,
+        "floors": 70,
+        "status": "under construction",
+        "end_year": 2018,
+        "start_year": 2014,
+        "notes": "Topped out in February 2018.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00289917,
+          40.75352859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "125 Greenwich Street",
+        "heights": 278,
+        "floors": 60,
+        "status": "on hold",
+        "end_year": 2018,
+        "start_year": 2015,
+        "notes": "Topped out in March 2019.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0127182,
+          40.70946884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "10 Hudson Yards",
+        "heights": 267.7,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2013,
+        "notes": "First of the Hudson Yards towers to be completed.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00132751,
+          40.75284958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "name": "8 Spruce Street",
+        "heights": 265.2,
+        "floors": 76,
+        "status": "completed",
+        "end_year": 2011,
+        "start_year": 2006,
+        "notes": "Also known as Beekman Tower and New York by Gehry.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00566864,
+          40.71086121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "name": "Trump World Tower",
+        "heights": 262.4,
+        "floors": 72,
+        "status": "completed",
+        "end_year": 2001,
+        "start_year": 1999,
+        "notes": "Tallest residential building in the world from 2000 until 2003.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96766663,
+          40.75252151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "name": "425 Park Avenue",
+        "heights": 262,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2015,
+        "notes": "Topped out in December 2018.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97109985,
+          40.7604599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "name": "30 Rockefeller Plaza",
+        "heights": 259.1,
+        "floors": 70,
+        "status": "completed",
+        "end_year": 1933,
+        "start_year": 1931,
+        "notes": "Also known as the Comcast Building, formerly known as the GE Building, and the RCA Building before that; colloquially referred to as \"30 Rock\" for its address, houses NBC Studios and the Top of the Rock observation deck.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97939301,
+          40.75899124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "name": "One Manhattan Square",
+        "heights": 258,
+        "floors": 68,
+        "status": "completed",
+        "end_year": 2019,
+        "start_year": 2015,
+        "notes": "Topped out in September 2017. Also known as 250 South Street or 227 Cherry Street.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99124146,
+          40.71046829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "name": "Sutton Tower",
+        "heights": 258,
+        "floors": 65,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2016,
+        "notes": "Residential tower rising in Sutton Place, also known as 3 Sutton Place.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961256,
+          40.758291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "name": "56 Leonard Street",
+        "heights": 250.2,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2008,
+        "notes": "The tallest structure in Tribeca.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0063324,
+          40.71760941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "name": "CitySpire",
+        "heights": 248.1,
+        "floors": 75,
+        "status": "completed",
+        "end_year": 1987,
+        "start_year": 1974,
+        "notes": "Was NYC's tallest mixed-use building at the time of its completion.",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97969818,
+          40.7641983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "name": "28 Liberty Street",
+        "heights": 247.8,
+        "floors": 60,
+        "status": "completed",
+        "end_year": 1961,
+        "start_year": 1957,
+        "notes": "Known until sale in 2015 as One Chase Manhattan Plaza.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00904846,
+          40.70782089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "name": "4 Times Square",
+        "heights": 246.5,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1999,
+        "start_year": 1996,
+        "notes": "Height is 809 feet to mast structure. Roof height is 701 feet. Antenna height is 1118 feet. Formerly known as the Cond?? Nast Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9858017,
+          40.75593948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "name": "MetLife Building",
+        "heights": 246.3,
+        "floors": 59,
+        "status": "completed",
+        "end_year": 1963,
+        "start_year": 1960,
+        "notes": "Formerly known as the Pan Am Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97666931,
+          40.75342178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "name": "Bloomberg Tower (731 Lexington Avenue)",
+        "heights": 245.6,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 2004,
+        "start_year": 2000,
+        "notes": "It houses the headquarters of Bloomberg L.P. and as a result, is sometimes referred to informally as Bloomberg Tower.",
+        "material": "concrete/steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96798706,
+          40.76174164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "name": "126 Madison Avenue",
+        "heights": 245,
+        "floors": 56,
+        "status": "completed",
+        "end_year": 2021,
+        "start_year": 2017,
+        "notes": "Also known as Madison House, topped out in June 2019.",
+        "material": "",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98516,
+          40.74566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "name": "138 East 50th Street",
+        "heights": 245,
+        "floors": 64,
+        "status": "completed",
+        "end_year": 2019,
+        "start_year": 2015,
+        "notes": "Topped out in November 2017. Also known as The Centrale.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9719,
+          40.7559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "name": "130 William Street",
+        "heights": 244,
+        "floors": 61,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2018,
+        "notes": "Topped out in May 2019.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00765,
+          40.70645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "name": "Woolworth Building",
+        "heights": 241.4,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 1913,
+        "start_year": 1910,
+        "notes": "Tallest building in the world from 1913 until 1930. Was the tallest building in New York City before being surpassed by 40 Wall Street.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0082016,
+          40.7123909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "name": "111 Murray Street",
+        "heights": 240,
+        "floors": 60,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2014,
+        "notes": "Completed in 2018.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01275,
+          40.71555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "name": "520 Park Avenue",
+        "heights": 237.9,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2015,
+        "notes": "Topped out in April 2017.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97029877,
+          40.76369858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "name": "50 West Street",
+        "heights": 237,
+        "floors": 64,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2014,
+        "notes": "Topped out in October 2015.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01505,
+          40.708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "name": "55 Hudson Yards",
+        "heights": 237,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2014,
+        "notes": "Topped out in April 2017.",
+        "material": "",
+        "uses": "office",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002778,
+          40.755556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "name": "One Worldwide Plaza",
+        "heights": 237,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 1989,
+        "start_year": 1986,
+        "notes": "Commercial office tower on Eighth Avenue",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98695374,
+          40.76222992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "name": "Madison Square Park Tower",
+        "heights": 237,
+        "floors": 64,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2008,
+        "notes": "Topped out in May 2016.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01506042,
+          40.70772171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "name": "Skyline Tower",
+        "heights": 233,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 2021,
+        "start_year": 2016,
+        "notes": "The tallest building in Queens, and the second tallest in the outer boroughs. Topped out in October 2019.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Queens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9362,
+          40.7505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "name": "19 Dutch",
+        "heights": 231,
+        "floors": 63,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2014,
+        "notes": "Also called 118 Fulton Street. Topped out in May 2016.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0096,
+          40.7098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "name": "Carnegie Hall Tower",
+        "heights": 230.7,
+        "floors": 60,
+        "status": "completed",
+        "end_year": 1991,
+        "start_year": 1988,
+        "notes": "The main shaft is a mere 50 feet (15?m) wide.",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97962952,
+          40.76480865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "name": "383 Madison Avenue",
+        "heights": 230.3,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 2001,
+        "start_year": 1999,
+        "notes": "Formerly known as Bear Stearns World Headquarters.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9766922,
+          40.75553894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "name": "Queens Plaza Park",
+        "heights": 230,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 2021,
+        "start_year": 2015,
+        "notes": "Second tallest building in Queens after Skyline Tower. Topped out in June 2020.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Queens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.936507,
+          40.750063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "name": "1717 Broadway (Courtyard & Residence Inn Manhattan/Central Park)",
+        "heights": 229.6,
+        "floors": 67,
+        "status": "completed",
+        "end_year": 2013,
+        "start_year": 2011,
+        "notes": "It houses the Courtyard & Residence Inn Manhattan/Central Park hotel. Tallest hotel in the Western Hemisphere.",
+        "material": "concrete",
+        "uses": "hybrid",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98271179,
+          40.76435852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "name": "AXA Equitable Center",
+        "heights": 229.2,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1985,
+        "start_year": 1981,
+        "notes": "Formerly known as the Equitable Building and Equitable Center West.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98184204,
+          40.76171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "name": "1251 Avenue of the Americas",
+        "heights": 228.6,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 1967,
+        "notes": "Formerly known as the Exxon Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98156738,
+          40.75997925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "name": "One Penn Plaza",
+        "heights": 228.6,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 1967,
+        "notes": "Tallest building in the Penn Plaza complex.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99236298,
+          40.75128174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "name": "Time Warner Center North Tower",
+        "heights": 228.3,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 2004,
+        "start_year": 2000,
+        "notes": "Originally constructed as the AOL Time Warner Center; in 2021 the complex was renamed the Deutsche Bank Center.",
+        "material": "concrete/steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98310852,
+          40.76893997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "name": "Time Warner Center South Tower",
+        "heights": 228.3,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 2004,
+        "start_year": 2000,
+        "notes": "Originally constructed as the AOL Time Warner Center; in 2021 the complex was renamed the Deutsche Bank Center.",
+        "material": "concrete/steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98313904,
+          40.76831818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "name": "Goldman Sachs Headquarters (200 West Street)",
+        "heights": 228.3,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2005,
+        "notes": "Also known as Goldman Sachs World Headquarters.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01437378,
+          40.71479034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "name": "One Astor Plaza",
+        "heights": 227.1,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 1968,
+        "notes": "Located on the site formerly occupied by the Hotel Astor. Houses the world headquarters of Paramount Global.",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98645782,
+          40.75790024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "name": "60 Wall Street",
+        "heights": 227.1,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 1989,
+        "start_year": 1988,
+        "notes": "Also known as Deutsche Bank Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00849915,
+          40.70611954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "name": "One Liberty Plaza",
+        "heights": 226.5,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 1968,
+        "notes": "Formerly known as the U.S. Steel Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0109024,
+          40.70985031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "name": "7 World Trade Center",
+        "heights": 226,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 2006,
+        "start_year": 2002,
+        "notes": "First tower in the new World Trade Center complex to be completed.",
+        "material": "steel/concrete",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01213837,
+          40.71332169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "name": "20 Exchange Place",
+        "heights": 225.9,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1929,
+        "notes": "Formerly known as the City Bank-Farmers Trust Building. Was 4th tallest building in NY when it was finished, behind Chrysler, 40 Wall, and Woolworth Bldgs.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0096817,
+          40.70544052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "name": "Three World Financial Center (200 Vesey Street)",
+        "heights": 225.2,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1986,
+        "start_year": 1985,
+        "notes": "Formerly known as Three World Financial Center and American Express Tower.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01502228,
+          40.71353912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "name": "ARO (242 W 53rd Street)",
+        "heights": 225,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2015,
+        "notes": "Topped out in June 2017. Also known as 242 West 53rd Street and Roseland Tower.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98409,
+          40.76365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "name": "1540 Broadway",
+        "heights": 223,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1990,
+        "start_year": 1988,
+        "notes": "Also known as Bertelsmann Building.",
+        "material": "",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984853,
+          40.758135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "name": "The Eugene (435 W 31st Street)",
+        "heights": 221,
+        "floors": 64,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2014,
+        "notes": "Topped out in April 2016.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9979,
+          40.7519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "name": "Times Square Tower",
+        "heights": 221,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 2004,
+        "start_year": 2001,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98692322,
+          40.75558853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "name": "Brooklyn Point",
+        "heights": 220.3,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 2020,
+        "start_year": 2011,
+        "notes": "Topped-out in April 2019, it is the second tallest building in the borough of Brooklyn.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9822,
+          40.6903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "name": "Metropolitan Tower",
+        "heights": 218.2,
+        "floors": 68,
+        "status": "completed",
+        "end_year": 1985,
+        "start_year": 1981,
+        "notes": "Immediately adjacent to Carnegie Hall Tower, separated by the Russian Tea Room.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97931671,
+          40.76475143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "name": "252 East 57th Street",
+        "heights": 217.9,
+        "floors": 65,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2014,
+        "notes": "Topped out in October 2015. Completed in 2017.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96589661,
+          40.7591095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "name": "Selene (100 East 53rd Street)",
+        "heights": 217.9,
+        "floors": 61,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2008,
+        "notes": "Topped out in January 2016.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97145844,
+          40.75827026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "name": "JPMorgan Chase Tower",
+        "heights": 215.5,
+        "floors": 52,
+        "status": "demolished",
+        "end_year": 1960,
+        "start_year": 1957,
+        "notes": "270 Park Avenue, also known as the JPMorgan Chase Building, is a skyscraper under construction in the Midtown Manhattan neighborhood of New York City. Designed by the firm of Foster + Partners, the tower is expected to rise up to 1,388 feet (423 m) when it is completed in 2025.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97557068,
+          40.75579834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "name": "General Motors Building",
+        "heights": 214.9,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1968,
+        "start_year": 1964,
+        "notes": "Occupies a full city block.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97228241,
+          40.76359177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "name": "25 Park Row",
+        "heights": 214,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 2020,
+        "start_year": 2017,
+        "notes": "Also known as 23 Park Row.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007306,
+          40.711361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "name": "Metropolitan Life Tower",
+        "heights": 213.4,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1909,
+        "start_year": 1907,
+        "notes": "Tallest building in the world from 1909 until 1913. Was the tallest building in New York City before being surpassed by the Woolworth Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98738098,
+          40.7412796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "name": "500 Fifth Avenue",
+        "heights": 212.4,
+        "floors": 59,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1930,
+        "notes": "Became a city landmark in 2010.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98104858,
+          40.75389099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "name": "601 West 29th Street",
+        "heights": 212,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 2022,
+        "start_year": 2018,
+        "notes": "Topped out. Received construction financing in June 2019; construction was underway as of July 2020.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0045,
+          40.7529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "name": "Americas Tower",
+        "heights": 210.9,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1992,
+        "start_year": 1988,
+        "notes": "Also known as 1177 Avenue of the Americas.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98287964,
+          40.75714111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "name": "Solow Building",
+        "heights": 210,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 1974,
+        "start_year": 1968,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97489166,
+          40.76382065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "name": "HSBC Bank Building (140 Broadway)",
+        "heights": 209.7,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 1967,
+        "start_year": 1975,
+        "notes": "Also known as Marine Midland Building, HSBC Bank Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01010895,
+          40.7085495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "name": "55 Water Street",
+        "heights": 209.4,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 1969,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00940704,
+          40.70294189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "name": "277 Park Avenue",
+        "heights": 209.4,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1963,
+        "start_year": 1958,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97457123,
+          40.75540924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "name": "The Beekman Hotel & Residences (5 Beekman Street)",
+        "heights": 209.4,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2014,
+        "notes": "Also known as The Beekman Hotel & Residences.",
+        "material": "composite",
+        "uses": "hybrid",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00679016,
+          40.71133041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "name": "Morgan Stanley Building (1585 Broadway)",
+        "heights": 209,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1989,
+        "start_year": 1987,
+        "notes": "Also known as 1585 Broadway. It houses the Morgan Stanley World Headquarters.",
+        "material": "",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985678,
+          40.760386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "name": "Penguin Random House Tower",
+        "heights": 208.5,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 2003,
+        "start_year": 2000,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98256683,
+          40.76530838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "name": "Four Seasons Hotel New York",
+        "heights": 207.9,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 1993,
+        "start_year": 1990,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97129059,
+          40.76232147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "name": "Sky (605 West 42nd Street)",
+        "heights": 206,
+        "floors": 61,
+        "status": "completed",
+        "end_year": 2015,
+        "start_year": 2008,
+        "notes": "Also known as 605 West 42nd Street and Atelier II. Largest single tower residence in New York City. Sky comprises 1,175 luxury units and includes more than 70,000 sq ft of amenity space.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99848175,
+          40.76124954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "name": "1221 Avenue of the Americas",
+        "heights": 205.4,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 1968,
+        "notes": "Formerly known as the McGraw-Hill Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98213196,
+          40.75934982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "name": "One Grand Central Place",
+        "heights": 205.1,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 1930,
+        "start_year": 1926,
+        "notes": "Formerly known as the Lincoln Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97875977,
+          40.75207138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "name": "One Court Square",
+        "heights": 205.1,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1990,
+        "start_year": 1986,
+        "notes": "Tallest building in the Borough of Queens from 1990 to 2021. Formerly known as the Citigroup Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Queens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94403076,
+          40.74700165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "name": "Barclay Tower",
+        "heights": 205.1,
+        "floors": 56,
+        "status": "completed",
+        "end_year": 2007,
+        "start_year": 2005,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00920105,
+          40.71220016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "name": "277 Fifth Avenue",
+        "heights": 205,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 2018,
+        "start_year": 2014,
+        "notes": "Topped out in March 2018.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986275,
+          40.745661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "name": "Paramount Plaza",
+        "heights": 204.2,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1970,
+        "start_year": 1966,
+        "notes": "Formerly the Uris Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98451996,
+          40.76203156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "name": "161 Maiden Lane*",
+        "heights": 204,
+        "floors": 60,
+        "status": "on hold",
+        "end_year": "",
+        "start_year": "",
+        "notes": "Also known as One Seaport. Topped out in August 2018.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004779,
+          40.705533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "name": "200 Amsterdam Avenue",
+        "heights": 204,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 2021,
+        "start_year": 2017,
+        "notes": "Tallest building on the Upper West Side; topped-out in August 2019.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9833,
+          40.7768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "name": "45 Park Place*",
+        "heights": 203,
+        "floors": 43,
+        "status": "on hold",
+        "end_year": "",
+        "start_year": "",
+        "notes": "Topped out by October 2019.",
+        "material": "",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01,
+          40.713611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "name": "Trump Tower",
+        "heights": 202.4,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 1982,
+        "start_year": 1980,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97396088,
+          40.7623291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "name": "599 Lexington Avenue",
+        "heights": 199.5,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1986,
+        "start_year": 1982,
+        "notes": "It was formerly called Bank of New York Building and Irving Trust Building.",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97074127,
+          40.75778961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "name": "One Wall Street",
+        "heights": 199.3,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1932,
+        "start_year": 1929,
+        "notes": " ",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0116272,
+          40.70738983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "name": "Silver Towers East",
+        "heights": 199.2,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 2009,
+        "start_year": 2007,
+        "notes": "Also known as River Place.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99886322,
+          40.76068878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "name": "Silver Towers West",
+        "heights": 199.2,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 2009,
+        "start_year": 2007,
+        "notes": "Also known as River Place.",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99949646,
+          40.76073074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "name": "712 5th Avenue",
+        "heights": 198.1,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 1990,
+        "start_year": 1988,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97502136,
+          40.76221848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "name": "Chanin Building",
+        "heights": 197.8,
+        "floors": 56,
+        "status": "completed",
+        "end_year": 1929,
+        "start_year": 1927,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97664642,
+          40.75117874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "name": "245 Park Avenue",
+        "heights": 197.5,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 1967,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97489166,
+          40.75463867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "name": "550 Madison Avenue",
+        "heights": 197.3,
+        "floors": 37,
+        "status": "completed",
+        "end_year": 1983,
+        "start_year": 1980,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97341156,
+          40.76139832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "name": "28 on 28th",
+        "heights": 196.9,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2014,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9396286,
+          40.74956131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "name": "Two World Financial Center",
+        "heights": 196.6,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1986,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01554871,
+          40.71242905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "name": "1095 Avenue of the Americas",
+        "heights": 196.4,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 2007,
+        "start_year": 2006,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98477936,
+          40.75460815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "name": "570 Lexington Avenue",
+        "heights": 196,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1929,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97250366,
+          40.757061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "name": "1 New York Plaza",
+        "heights": 195.1,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1969,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0120697,
+          40.70204163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "name": "1 MiMA Tower",
+        "heights": 194.6,
+        "floors": 63,
+        "status": "completed",
+        "end_year": 2011,
+        "start_year": 2007,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99465942,
+          40.75891876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "name": "345 Park Avenue",
+        "heights": 193.3,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1969,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97238159,
+          40.75777817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "name": "Mercantile Building",
+        "heights": 192.6,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1929,
+        "start_year": 1929,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98127747,
+          40.75156021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "name": "Langham Place",
+        "heights": 192.6,
+        "floors": 59,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2007,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98374939,
+          40.75006866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "name": "W New York Downtown Hotel & Residences",
+        "heights": 192.1,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2006,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01364136,
+          40.70909119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "name": "Grace Plaza",
+        "heights": 192,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98269653,
+          40.75463867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "name": "Home Insurance Plaza",
+        "heights": 192,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1966,
+        "start_year": 1964,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00814056,
+          40.70872116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "name": "101 Park Avenue",
+        "heights": 191.7,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 1982,
+        "start_year": 1979,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97785187,
+          40.75086975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "name": "888 7th Avenue",
+        "heights": 191.4,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 1971,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98084259,
+          40.76530838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "name": "1345 Avenue of the Americas",
+        "heights": 190.5,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 1969,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97898865,
+          40.76303101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "name": "Waldorf Astoria New York",
+        "heights": 190.5,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1930,
+        "notes": "",
+        "material": "steel",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97338104,
+          40.75656891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "name": "Trump Palace",
+        "heights": 189.9,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 1991,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96177673,
+          40.76742935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "name": "One Madison Park",
+        "heights": 189.3,
+        "floors": 50,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2006,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98805237,
+          40.74065018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "name": "Olympic Tower",
+        "heights": 189,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1976,
+        "start_year": 1974,
+        "notes": "",
+        "material": "concrete/steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97615051,
+          40.7591095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "name": "425 5th Avenue",
+        "heights": 188.3,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 2003,
+        "start_year": 2001,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98233032,
+          40.75104141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "name": "New York Life Building",
+        "heights": 187.5,
+        "floors": 33,
+        "status": "completed",
+        "end_year": 1928,
+        "start_year": 1926,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9855423,
+          40.74277115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134,
+        "name": "The Epic",
+        "heights": 187.4,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 2007,
+        "start_year": 2005,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99008942,
+          40.7487793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135,
+        "name": "Tower 49&reg;",
+        "heights": 187.4,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1985,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel/concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97704315,
+          40.75727081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136,
+        "name": "Eventi",
+        "heights": 187.1,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2007,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99015045,
+          40.74708176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137,
+        "name": "Singer Building",
+        "heights": 186.6,
+        "floors": 47,
+        "status": "demolished",
+        "end_year": 1908,
+        "start_year": 1906,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01097107,
+          40.70972061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138,
+        "name": "Credit Lyonnais Building",
+        "heights": 185.6,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 1964,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97988892,
+          40.76169968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139,
+        "name": "The Hub",
+        "heights": 185,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2014,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98027802,
+          40.68709183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 140,
+        "name": "Baccarat Hotel & Residences",
+        "heights": 184.5,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 2015,
+        "start_year": 2012,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97741699,
+          40.76079178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 141,
+        "name": "The Orion",
+        "heights": 184.1,
+        "floors": 60,
+        "status": "completed",
+        "end_year": 2006,
+        "start_year": 2004,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99226379,
+          40.75794983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142,
+        "name": "590 Madison Avenue",
+        "heights": 183.8,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1983,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97299194,
+          40.76213074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+        "name": "250 West 55th Street",
+        "heights": 183.4,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 2013,
+        "start_year": 2008,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98361969,
+          40.76502991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144,
+        "name": "Eleven Times Square",
+        "heights": 183.1,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 2011,
+        "start_year": 2007,
+        "notes": "",
+        "material": "composite",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98963165,
+          40.75677109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145,
+        "name": "1166 Avenue of the Americas",
+        "heights": 182.9,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1974,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9821167,
+          40.75683975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146,
+        "name": "Hawthorn Park",
+        "heights": 182.3,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 2014,
+        "start_year": 2012,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98609161,
+          40.77196121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 147,
+        "name": "Hearst Tower",
+        "heights": 182,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 2006,
+        "start_year": 2003,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98375702,
+          40.76654053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148,
+        "name": "Avalon Willoughby West",
+        "heights": 181.7,
+        "floors": 57,
+        "status": "completed",
+        "end_year": 2015,
+        "start_year": 2013,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98497009,
+          40.69194031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 149,
+        "name": "Celanese Building",
+        "heights": 180.4,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 1973,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98226166,
+          40.75857925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 150,
+        "name": "388 Bridge Street",
+        "heights": 179.8,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 2014,
+        "start_year": 2012,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98558807,
+          40.69165039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 151,
+        "name": "Thurgood Marshall U.S. Court House",
+        "heights": 179.8,
+        "floors": 37,
+        "status": "completed",
+        "end_year": 1936,
+        "start_year": 1932,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00251007,
+          40.71368027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152,
+        "name": "Sky House",
+        "heights": 179.3,
+        "floors": 54,
+        "status": "completed",
+        "end_year": 2008,
+        "start_year": 2005,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98558807,
+          40.74507904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 153,
+        "name": "The Millenium Hilton",
+        "heights": 179.2,
+        "floors": 58,
+        "status": "completed",
+        "end_year": 1992,
+        "start_year": 1988,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01039886,
+          40.71118927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 154,
+        "name": "Time-Life Building",
+        "heights": 178.9,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1959,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98097992,
+          40.76052856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 155,
+        "name": "Jacob K. Javits Federal Building",
+        "heights": 178.9,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1967,
+        "start_year": 1963,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00434875,
+          40.7154007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156,
+        "name": "W Times Square",
+        "heights": 177.9,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 2002,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98561096,
+          40.75934982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 157,
+        "name": "Trump International Hotel & Tower",
+        "heights": 177.6,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1970,
+        "start_year": 1968,
+        "notes": "",
+        "material": "steel",
+        "uses": "hotel",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98159027,
+          40.76911163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158,
+        "name": "Stevens Tower",
+        "heights": 176.8,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1971,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98238373,
+          40.75783157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159,
+        "name": "Municipal Building",
+        "heights": 176.8,
+        "floors": 34,
+        "status": "completed",
+        "end_year": 1914,
+        "start_year": 1909,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00366211,
+          40.7129097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160,
+        "name": "520 Madison Avenue",
+        "heights": 175.9,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 1982,
+        "start_year": 1980,
+        "notes": "",
+        "material": "concrete/steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97438812,
+          40.76028061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161,
+        "name": "One World Financial Center",
+        "heights": 175.9,
+        "floors": 37,
+        "status": "completed",
+        "end_year": 1985,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01567841,
+          40.71047974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162,
+        "name": "Merchandise Mart",
+        "heights": 175.6,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1973,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98631287,
+          40.74235153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163,
+        "name": "5 Times Square",
+        "heights": 175.3,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 2002,
+        "start_year": 2000,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98760223,
+          40.75590897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 164,
+        "name": "300 Madison Avenue",
+        "heights": 175.3,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 2003,
+        "start_year": 2001,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98007965,
+          40.75267029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165,
+        "name": "Lehman Building",
+        "heights": 175.3,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 2001,
+        "start_year": 1999,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98288727,
+          40.7605896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166,
+        "name": "New York Marriott Marquis Hotel",
+        "heights": 175,
+        "floors": 56,
+        "status": "completed",
+        "end_year": 1985,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98612213,
+          40.75862122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167,
+        "name": "299 Park Avenue",
+        "heights": 175,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1967,
+        "start_year": 1965,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97428131,
+          40.75603104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168,
+        "name": "Socony Mobil Building",
+        "heights": 174.4,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1956,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97551727,
+          40.75074005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 169,
+        "name": "1290 Avenue of the Americas",
+        "heights": 174,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 1963,
+        "start_year": 1961,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97917938,
+          40.76060867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+        "name": "780 3rd Avenue",
+        "heights": 173.7,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 1983,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97183228,
+          40.75492096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171,
+        "name": "Seven World Trade Center",
+        "heights": 173.7,
+        "floors": 47,
+        "status": "demolished",
+        "end_year": 1987,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0123291,
+          40.71355057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172,
+        "name": "600 3rd Avenue",
+        "heights": 173.7,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1971,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97585297,
+          40.74935913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 173,
+        "name": "590 Fulton Street",
+        "heights": 173.1,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2014,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97882843,
+          40.68783951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 174,
+        "name": "450 Lexington Avenue",
+        "heights": 173.1,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 1991,
+        "start_year": 1988,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9753418,
+          40.75328064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "name": "Paramount Tower",
+        "heights": 172.8,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1998,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hybrid",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97457123,
+          40.74795914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 176,
+        "name": "230 Park Avenue",
+        "heights": 172.2,
+        "floors": 35,
+        "status": "completed",
+        "end_year": 1928,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97592163,
+          40.75442886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 177,
+        "name": "30 Broad Street",
+        "heights": 171,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1932,
+        "start_year": 1931,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01167297,
+          40.70621872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "name": "Nelson Tower",
+        "heights": 170.7,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99086761,
+          40.75146866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 179,
+        "name": "Hotel Sherry-Netherland",
+        "heights": 170.7,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 1927,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97270966,
+          40.76433182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 180,
+        "name": "South Park Tower",
+        "heights": 170,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1986,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98581696,
+          40.77011871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 181,
+        "name": "100 United Nations Plaza",
+        "heights": 169.8,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 1986,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96778107,
+          40.75318146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 182,
+        "name": "Continental Can Building",
+        "heights": 169.8,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1962,
+        "start_year": 1959,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97471619,
+          40.74956131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 183,
+        "name": "Reuters Building",
+        "heights": 169.2,
+        "floors": 30,
+        "status": "completed",
+        "end_year": 2001,
+        "start_year": 1998,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9870224,
+          40.75669098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184,
+        "name": "330 Madison Avenue",
+        "heights": 169.2,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1964,
+        "start_year": 1963,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97950745,
+          40.75333023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185,
+        "name": "Equitable Building",
+        "heights": 169.2,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 1915,
+        "start_year": 1913,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01049805,
+          40.70822144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+        "name": "Tower 111",
+        "heights": 169,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 2011,
+        "start_year": 2009,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hybrid",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98918152,
+          40.74848175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 187,
+        "name": "The Belvedere",
+        "heights": 168.9,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 1999,
+        "start_year": 1997,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9861908,
+          40.74475861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 188,
+        "name": "1133 Avenue of the Americas",
+        "heights": 168.3,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 1970,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98381042,
+          40.75600052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 189,
+        "name": "Unysys Building",
+        "heights": 167.9,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1963,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97506714,
+          40.74898911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 190,
+        "name": "Downtown by Philippe Starck",
+        "heights": 167.9,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1927,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01069641,
+          40.70642853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 191,
+        "name": "AT&T Long Lines Building",
+        "heights": 167.9,
+        "floors": 29,
+        "status": "completed",
+        "end_year": 1974,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059967,
+          40.7164917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 192,
+        "name": "Hyatt Times Square",
+        "heights": 167.6,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 2013,
+        "start_year": 2009,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98403931,
+          40.75756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193,
+        "name": "The Biltmore",
+        "heights": 167.6,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 2003,
+        "start_year": 2001,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98693085,
+          40.76050186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 194,
+        "name": "The Tower at 15 Central Park West",
+        "heights": 167.6,
+        "floors": 35,
+        "status": "completed",
+        "end_year": 2008,
+        "start_year": 2005,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98158264,
+          40.7699585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 195,
+        "name": "Bankers Trust West Annex",
+        "heights": 167,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1971,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97560883,
+          40.75667191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 196,
+        "name": "50 United Nations Plaza",
+        "heights": 167,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 2015,
+        "start_year": 2012,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96833038,
+          40.75177002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 197,
+        "name": "The Corinthian",
+        "heights": 166.4,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 1988,
+        "start_year": 1986,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9729538,
+          40.74647141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 198,
+        "name": "Transportation Building",
+        "heights": 166.1,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1928,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00868225,
+          40.71194839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 199,
+        "name": "The Galleria",
+        "heights": 165.8,
+        "floors": 55,
+        "status": "completed",
+        "end_year": 1975,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hybrid",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96974945,
+          40.76176071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 200,
+        "name": "2 Gold Street",
+        "heights": 165.5,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 2005,
+        "start_year": 2003,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00698853,
+          40.70729065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "name": "220 Riverside Boulevard At Trump Place",
+        "heights": 165.3,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 2003,
+        "start_year": 2001,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "West Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98744202,
+          40.77954865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "name": "17 State Street",
+        "heights": 165.3,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1988,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01394653,
+          40.70283127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "name": "Grand Central Plaza",
+        "heights": 165.2,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 1973,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97590637,
+          40.75009155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "name": "Ritz Hotel Tower",
+        "heights": 164.9,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1926,
+        "start_year": 1925,
+        "notes": "",
+        "material": "steel",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9702301,
+          40.76158905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 205,
+        "name": "626 1st Avenue West Tower",
+        "heights": 164.7,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2014,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97219086,
+          40.74465942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 206,
+        "name": "1285 Avenue of the Americas",
+        "heights": 164.6,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1960,
+        "start_year": 1959,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98014069,
+          40.76102066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 207,
+        "name": "14 Wall",
+        "heights": 164.6,
+        "floors": 29,
+        "status": "completed",
+        "end_year": 1912,
+        "start_year": 1910,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01075745,
+          40.70761871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 208,
+        "name": "Lefcourt Colonial Building",
+        "heights": 164,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 1929,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97930908,
+          40.75175858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 209,
+        "name": "Tribeca Tower",
+        "heights": 163.7,
+        "floors": 53,
+        "status": "completed",
+        "end_year": 1990,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00595093,
+          40.71580124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 210,
+        "name": "175 West 60th Street",
+        "heights": 162.5,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 2016,
+        "start_year": 2014,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98668671,
+          40.77116013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 211,
+        "name": "1700 Broadway",
+        "heights": 162.5,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1969,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98226929,
+          40.76358032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 212,
+        "name": "Westin New York at Times Square",
+        "heights": 162.2,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 2002,
+        "start_year": 2000,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989151,
+          40.75759125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 213,
+        "name": "DuMont Building",
+        "heights": 162.2,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97354126,
+          40.75978851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 214,
+        "name": "The Brooklyner",
+        "heights": 162,
+        "floors": 52,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2008,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98586273,
+          40.69272995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 215,
+        "name": "515 Park Avenue",
+        "heights": 162,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 1999,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9691391,
+          40.76322937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 216,
+        "name": "21 West End Avenue",
+        "heights": 161.2,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 2017,
+        "start_year": 2014,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9903717,
+          40.77281952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 217,
+        "name": "The Metropolis",
+        "heights": 160.9,
+        "floors": 48,
+        "status": "completed",
+        "end_year": 2001,
+        "start_year": 2000,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97425079,
+          40.75207901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 218,
+        "name": "William Beaver House",
+        "heights": 160.8,
+        "floors": 47,
+        "status": "completed",
+        "end_year": 2010,
+        "start_year": 2006,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01035309,
+          40.70531082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 219,
+        "name": "North American Plywood Building",
+        "heights": 160.3,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1972,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97131348,
+          40.75559998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220,
+        "name": "Hotel Pierre",
+        "heights": 160,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1928,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97177887,
+          40.76507187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 221,
+        "name": "767 3rd Avenue",
+        "heights": 160,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1980,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97142792,
+          40.7542305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 222,
+        "name": "Citibank Building",
+        "heights": 159.7,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1961,
+        "start_year": 1959,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9718399,
+          40.75917053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223,
+        "name": "825 Third Avenue",
+        "heights": 159.1,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 1969,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97009277,
+          40.75579834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 224,
+        "name": "Atelier",
+        "heights": 158.8,
+        "floors": 46,
+        "status": "completed",
+        "end_year": 2007,
+        "start_year": 2004,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99945831,
+          40.76158905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 225,
+        "name": "26 Broadway",
+        "heights": 158.5,
+        "floors": 31,
+        "status": "completed",
+        "end_year": 1924,
+        "start_year": 1922,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01300812,
+          40.70529175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 226,
+        "name": "Newsweek Building",
+        "heights": 158,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1930,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97609711,
+          40.75770187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227,
+        "name": "The Downtown Club",
+        "heights": 157.9,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1930,
+        "start_year": 1929,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01570892,
+          40.70608902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228,
+        "name": "Deutsche Bank",
+        "heights": 157.6,
+        "floors": 39,
+        "status": "demolished",
+        "end_year": 1974,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0134201,
+          40.70965958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 229,
+        "name": "785 8th Avenue",
+        "heights": 157.4,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 2009,
+        "start_year": 2005,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98747253,
+          40.76102066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 230,
+        "name": "Highpoint Condominiums",
+        "heights": 157.3,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 1988,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97360992,
+          40.7485199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 231,
+        "name": "Sterling Drug Company Building",
+        "heights": 157,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1964,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97923279,
+          40.75070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 232,
+        "name": "Seagram Building",
+        "heights": 157,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 1958,
+        "start_year": 1956,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97223663,
+          40.75844955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 233,
+        "name": "1214 Fifth Avenue",
+        "heights": 156.4,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 2012,
+        "start_year": 2010,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95233917,
+          40.79124069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 234,
+        "name": "Bank of New York Building",
+        "heights": 156.4,
+        "floors": 31,
+        "status": "completed",
+        "end_year": 1927,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00913239,
+          40.70642853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 235,
+        "name": "Millennium Towers North",
+        "heights": 156.1,
+        "floors": 44,
+        "status": "completed",
+        "end_year": 1930,
+        "start_year": 1928,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98934174,
+          40.75355148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 236,
+        "name": "One Hanson Place",
+        "heights": 156.1,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1929,
+        "start_year": 1927,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97763062,
+          40.68548965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 237,
+        "name": "1407 Broadway",
+        "heights": 156.1,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1950,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98764038,
+          40.75342178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 238,
+        "name": "International Building",
+        "heights": 156.1,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1935,
+        "start_year": 1933,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9777298,
+          40.75915146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239,
+        "name": "437 Madison Avenue",
+        "heights": 156.1,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 1967,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97535706,
+          40.75740051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 240,
+        "name": "Continental Building",
+        "heights": 155.8,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1930,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98645782,
+          40.75466156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 241,
+        "name": "1155 Avenue of the Americas",
+        "heights": 155.8,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 1984,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98335266,
+          40.7566185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 242,
+        "name": "Liberty Plaza",
+        "heights": 155.4,
+        "floors": 45,
+        "status": "completed",
+        "end_year": 2004,
+        "start_year": 2002,
+        "notes": "",
+        "material": "concrete",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00821686,
+          40.70735931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 243,
+        "name": "United Nations Secretariat Building",
+        "heights": 154.3,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1953,
+        "start_year": 1947,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96801758,
+          40.74893951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 244,
+        "name": "810 7th Avenue",
+        "heights": 154.2,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1970,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98258209,
+          40.76293182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 245,
+        "name": "One United Nations Plaza",
+        "heights": 153.9,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1975,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9691925,
+          40.75048828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 246,
+        "name": "Two United Nations Plaza",
+        "heights": 153.9,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1981,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9695816,
+          40.75083923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 247,
+        "name": "Johns-Manville Building",
+        "heights": 153.3,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 1931,
+        "start_year": 1930,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98004913,
+          40.75120163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 248,
+        "name": "60 Broad Street",
+        "heights": 153.3,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1962,
+        "start_year": 1960,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01206207,
+          40.70534134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 249,
+        "name": "Lefcourt National Building",
+        "heights": 153.3,
+        "floors": 37,
+        "status": "completed",
+        "end_year": 1928,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97981262,
+          40.75416946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 250,
+        "name": "Sheraton New York",
+        "heights": 152.7,
+        "floors": 51,
+        "status": "completed",
+        "end_year": 1962,
+        "start_year": 0,
+        "notes": "",
+        "material": "concrete",
+        "uses": "hotel",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98156738,
+          40.76234818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 251,
+        "name": "World Apparel Center",
+        "heights": 152.7,
+        "floors": 39,
+        "status": "completed",
+        "end_year": 1968,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98758698,
+          40.75421906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 252,
+        "name": "International Gem Tower",
+        "heights": 152.7,
+        "floors": 34,
+        "status": "completed",
+        "end_year": 2013,
+        "start_year": 2008,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98081207,
+          40.75722885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 253,
+        "name": "One Columbus Place Tower I",
+        "heights": 152.4,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 1999,
+        "start_year": 1997,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98542023,
+          40.76893997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 254,
+        "name": "One Columbus Place Tower II",
+        "heights": 152.4,
+        "floors": 49,
+        "status": "completed",
+        "end_year": 1999,
+        "start_year": 1997,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Upper Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98590088,
+          40.76935959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 255,
+        "name": "Four World Financial Center",
+        "heights": 152.4,
+        "floors": 34,
+        "status": "completed",
+        "end_year": 1986,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0160675,
+          40.71400833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 256,
+        "name": "Barclay-Vesey Building",
+        "heights": 151.8,
+        "floors": 32,
+        "status": "completed",
+        "end_year": 1926,
+        "start_year": 1923,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01306915,
+          40.71364975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 257,
+        "name": "80 Pine Street",
+        "heights": 151.5,
+        "floors": 40,
+        "status": "completed",
+        "end_year": 1960,
+        "start_year": 1957,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00684357,
+          40.70606995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 258,
+        "name": "The Platinum",
+        "heights": 151.2,
+        "floors": 43,
+        "status": "completed",
+        "end_year": 2008,
+        "start_year": 2006,
+        "notes": "",
+        "material": "concrete",
+        "uses": "residential",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98738861,
+          40.75989151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 259,
+        "name": "Financial Times Building",
+        "heights": 151.2,
+        "floors": 41,
+        "status": "completed",
+        "end_year": 1965,
+        "start_year": 0,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97849274,
+          40.76197052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 260,
+        "name": "20 Pine",
+        "heights": 151,
+        "floors": 38,
+        "status": "completed",
+        "end_year": 1928,
+        "start_year": 1926,
+        "notes": "",
+        "material": "steel",
+        "uses": "residential",
+        "neighborhoods": "Lower Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009758,
+          40.70767975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 261,
+        "name": "Fuller Building",
+        "heights": 150,
+        "floors": 42,
+        "status": "completed",
+        "end_year": 1929,
+        "start_year": 1928,
+        "notes": "",
+        "material": "steel",
+        "uses": "office",
+        "neighborhoods": "Midtown Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97184753,
+          40.76240921
+        ]
+      }
+    }
+  ]
+}
